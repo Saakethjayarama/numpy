@@ -24,3 +24,12 @@ pip install numpy
 - Find shape of array 08
 - Reshape 09
 - Slicing 10
+- Line spacing 11
+- Minumum, Maximum and Sum 12
+- Axis 13
+- Square root 14
+- Standard deviation 15
+- Matrix operations 16
+- Stack 17
+- sin, cos, tan 18
+- Exponential and logarithmetic functions 19
